@@ -32,19 +32,19 @@ module.exports = {
 ## Project setup
 
 ```
-pnpm install
+yarn
 ```
 
 ### Compiles and hot-reloads for development
 
 ```
-pnpm dev
+yarn dev
 ```
 
 ### Compiles and minifies for production
 
 ```
-pnpm build
+yarn build
 ```
 
 ## License & copyright
